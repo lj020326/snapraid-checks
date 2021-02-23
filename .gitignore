@@ -7,3 +7,6 @@ tmp
 *.smart-lock
 .snapraidsettings
 .snapraid-settings
+
+.idea/
+save/
